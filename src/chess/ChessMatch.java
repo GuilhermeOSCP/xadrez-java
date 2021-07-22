@@ -8,6 +8,7 @@ import boardgame.Board;
 import boardgame.Piece;
 import boardgame.Position;
 import chess.pieces.King;
+import chess.pieces.Pawn;
 import chess.pieces.Rook;
 
 public class ChessMatch {
@@ -199,14 +200,14 @@ public class ChessMatch {
 	 //        placeNewPiece('f', 1, new Bishop(board, Color.White));
 	 //        placeNewPiece('g', 1, new Knight(board, Color.White));
 	        placeNewPiece('h', 1, new Rook(board, Color.White));
-	 //        placeNewPiece('a', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('b', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('c', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('d', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('e', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('f', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('g', 2, new Pawn(board, Color.White, this));
-	 //        placeNewPiece('h', 2, new Pawn(board, Color.White, this));
+	        placeNewPiece('a', 2, new Pawn(board, Color.White));
+	        placeNewPiece('b', 2, new Pawn(board, Color.White));
+	        placeNewPiece('c', 2, new Pawn(board, Color.White));
+	        placeNewPiece('d', 2, new Pawn(board, Color.White));
+	        placeNewPiece('e', 2, new Pawn(board, Color.White));
+	        placeNewPiece('f', 2, new Pawn(board, Color.White));
+	        placeNewPiece('g', 2, new Pawn(board, Color.White));
+	        placeNewPiece('h', 2, new Pawn(board, Color.White));
 
 	        placeNewPiece('a', 8, new Rook(board, Color.Black));
 	 //        placeNewPiece('b', 8, new Knight(board, Color.Black));
@@ -216,13 +217,13 @@ public class ChessMatch {
 	 //         placeNewPiece('f', 8, new Bishop(board, Color.Black));
 	 //         placeNewPiece('g', 8, new Knight(board, Color.Black));
 	        placeNewPiece('h', 8, new Rook(board, Color.Black));
-	 //         placeNewPiece('a', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('b', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('c', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('d', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('e', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('f', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('g', 7, new Pawn(board, Color.Black, this));
-	 //         placeNewPiece('h', 7, new Pawn(board, Color.Black, this));
+	        placeNewPiece('a', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('b', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('c', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('d', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('e', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('f', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('g', 7, new Pawn(board, Color.Black));
+	        placeNewPiece('h', 7, new Pawn(board, Color.Black));
 	}
 }
