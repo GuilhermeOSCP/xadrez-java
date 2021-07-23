@@ -6,8 +6,8 @@ EN-US: Basic chess in java
 
 
 Instruções Para Inicialização do Software | Software Startup Instructions:
-PT-BR: O software só pode ser iniciado dentro da pasta "bin" do projeto pelo GIT BASH, porque pela IDE (utilizei o eclipse) ocorre erros na formatação das peças
-EN-US: The software must be started inside the project's "bin" folder by GIT BASH, because by the IDE (I used eclipse) errors occur in the formatting of the pieces
+PT-BR: O software só pode ser iniciado dentro da pasta "bin" do projeto pelo GIT BASH, porque pela IDE (utilizei o eclipse) ocorre erros na formatação das peças.
+EN-US: The software must be started inside the project's "bin" folder by GIT BASH, because by the IDE (I used eclipse) errors occur in the formatting of the pieces.
 
 PT-BR: Estando na pasta "bin" através do GIT BASH, basta somente digitar o comando "java application/Program" sem aspas que o software irá iniciar, divirta-se.
 EN-US: Being in the "bin" folder through GIT BASH, just type the command "java application/Program" without quotes and the software will start, have fun.
