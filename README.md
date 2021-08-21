@@ -7,7 +7,7 @@ PT-BR: O Projeto consiste em um jogo de xadrez básico sem interface gráfica qu
 EN-US: The Project consists of a basic chess game with no GUI that can be run through GIT BASH as the image below.
 
 <div>
-<img src="https://github.com/GuilhermeOSCP/xadrez-java/blob/master/ChessGamePanel.png">
+<img src="https://github.com/GuilhermeOSCP/xadrez-java/blob/master/ChessGame.png">
 </div>
 
 ### Instruções Para Inicialização do Software | Software Startup Instructions:
