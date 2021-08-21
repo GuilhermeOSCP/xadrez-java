@@ -1,4 +1,4 @@
-# xadrez-java
+# Jogo de Xadrez em Java | Java Chess Game
 
 ### Introdução | Introduction:
 
