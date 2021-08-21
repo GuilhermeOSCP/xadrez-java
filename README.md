@@ -2,12 +2,12 @@
 
 ### Introdução | Introduction:
 
-PT-BR: Xadrez Basico em java 
+PT-BR: O Projeto consiste em um jogo de xadrez básico sem interface gráfica que pode ser executado através do GitBash. 
 
-EN-US: Basic chess in java
+EN-US: The Project consists of a basic chess game with no GUI that can be run through GitBash.
 
 
-Instruções Para Inicialização do Software | Software Startup Instructions:
+### Instruções Para Inicialização do Software | Software Startup Instructions:
 
 PT-BR: O software só pode ser iniciado dentro da pasta "bin" do projeto pelo GIT BASH, porque pela IDE (utilizei o eclipse) ocorre erros na formatação das peças.
 
@@ -20,7 +20,7 @@ EN-US: Being in the "bin" folder through GIT BASH, just type the command "java a
 
 
 
-Observação | Observation:
+### Observação | Observation:
 
 PT-BR: Você pode usar meu código como base de outro ou utiliza-lo como demonstração, mas gostaria que os devidos creditos fossem dados.
 
