@@ -1,6 +1,6 @@
 # xadrez-java
 
-Introdução | Introduction:
+### Introdução | Introduction:
 
 PT-BR: Xadrez Basico em java 
 
