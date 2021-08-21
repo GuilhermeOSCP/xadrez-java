@@ -2,10 +2,13 @@
 
 ### Introdução | Introduction:
 
-PT-BR: O Projeto consiste em um jogo de xadrez básico sem interface gráfica que pode ser executado através do GitBash. 
+PT-BR: O Projeto consiste em um jogo de xadrez básico sem interface gráfica que pode ser executado através do GIT BASH conforme imagem abaixo.
 
-EN-US: The Project consists of a basic chess game with no GUI that can be run through GitBash.
+EN-US: The Project consists of a basic chess game with no GUI that can be run through GIT BASH as the image below.
 
+<div>
+<img src="">
+</div>
 
 ### Instruções Para Inicialização do Software | Software Startup Instructions:
 
